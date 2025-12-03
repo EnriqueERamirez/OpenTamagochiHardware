@@ -1,0 +1,2 @@
+# OpenTamagochiHardware
+Start
