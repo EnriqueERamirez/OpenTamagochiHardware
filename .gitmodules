@@ -1,0 +1,3 @@
+[submodule "tools/kicadtolls/librarymergekicad"]
+	path = tools/kicadtolls/librarymergekicad
+	url = git@github.com:EnriqueERamirez/librarymergekicad.git

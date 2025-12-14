@@ -1009,19 +1009,27 @@
     ],
     [
       "f06537ee-772d-44d3-8c50-e0ba41038c9c",
-      "Section A - Title A"
+      "MCU"
     ],
     [
       "e744f3ce-03a6-44a6-8792-1447ef232b9a",
-      "Section B - Title B"
+      "POWER"
     ],
     [
-      "5fb05893-0da3-4f58-a52b-cb6d6f4cb80b",
-      "Power - Sequencing"
+      "c0cd3451-b721-4d30-90d1-58d685accea6",
+      "IMU"
+    ],
+    [
+      "470662da-f54d-4954-b386-e35de6bdb852",
+      "Screen"
     ],
     [
       "6e125bd6-2f99-4e5d-b3ea-4899f4540739",
       "Revision History"
+    ],
+    [
+      "5fb05893-0da3-4f58-a52b-cb6d6f4cb80b",
+      "Power - Sequencing"
     ]
   ],
   "text_variables": {
